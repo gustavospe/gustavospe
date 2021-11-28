@@ -37,4 +37,4 @@ class Gustavospe {
 
 #### Rede Sociais!
 
-📷 [instagram][instagram] **|** 
+📷 [instagram][instagram] 
