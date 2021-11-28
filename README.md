@@ -1,16 +1,40 @@
-### Hi there 👋
+### Slv devs 🤙
 
-<!--
-**gustavospe/gustavospe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gosto de criar coisas unicas e revolucionárias.
 
-Here are some ideas to get you started:
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img onerror="alert()" align="right" width="300" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+
+```php
+class Gustavospe {
+  private $name = "Gustavo Spengler";
+  private $age = 16;
+  private $languages = ["LUA", "JavaScript", "PHP"];
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gustavospe">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gustavospe&show_icons=true&theme=radical&line_height=27%22%20alt=%22Gustavospe%20github%20stats"/>
+</a>
+
+[instagram]: https://www.instagram.com/gustavospe
+<br>
+
+#### Rede Sociais!
+
+📷 [instagram][instagram] **|** 
