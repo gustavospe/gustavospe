@@ -29,7 +29,7 @@ class Gustavospe {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gustavospe">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gustavospe&show_icons=true&theme=radical&line_height=27%22%20alt=%22Gustavospe%20github%20stats"/>
+ <img align="center" src="https://vekez-dev.ga/github/"/>
 </a>
 
 [instagram]: https://www.instagram.com/gustavospe
