@@ -4,7 +4,7 @@ Gosto de criar coisas unicas e revolucionárias.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img onerror="alert()" align="right" width="300" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+
 
 ```php
 class Gustavospe {
