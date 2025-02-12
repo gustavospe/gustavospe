@@ -10,7 +10,7 @@ Gosto de criar coisas unicas e revolucionárias.
 class Gustavospe {
   private $name = "Gustavo Spengler";
   private $age = 18;
-  private $languages = ["LUA", "JavaScript", "PHP"];
+  private $languages = ["TypeScript", "Dart", "PHP"];
 }
 ```
 
