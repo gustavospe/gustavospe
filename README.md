@@ -1,54 +1,65 @@
-### Slv devs 🤙
+Perfeito! Aqui está seu README atualizado com suas informações de contato integradas na seção final:
 
-Gosto de criar coisas unicas e revolucionárias.
+---
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+# 👋 Olá, Devs!
 
+Sou o **Gustavo Spengler**, um entusiasta de tecnologia com 18 anos, apaixonado por criar soluções únicas e revolucionárias.
 
+## 🚀 Sobre Mim
 
-```php
-class Gustavospe {
-  private $name = "Gustavo Spengler";
-  private $age = 18;
-  private $languages = ["TypeScript", "Dart", "PHP"];
-}
+```javascript
+const gustavospe = {
+  nome: "Gustavo Spengler",
+  idade: 18,
+  localização: "Santa Catarina, Brazil",
+  linguagens: ["TypeScript", "Dart", "PHP"],
+  frameworks: ["Vue.js", "React", "Next.js", "Nuxt.js", "Flutter"],
+  bancosDeDados: ["Firebase", "Supabase"],
+};
 ```
 
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 📚 Frameworks & Bibliotecas
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=black&style=for-the-badge" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/512/supabase.png" height="40" alt="SupaBase logo"  />
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" height="40" alt="Vue.js logo" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="40" alt="React logo" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="40" alt="Next.js logo" />
+  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" height="40" alt="Nuxt.js logo" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" alt="Flutter logo" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS logo" />
 </div>
 
-###
+### 🗄️ Bancos de Dados & Backend
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="left">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase logo" />
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="40" alt="Supabase logo" />
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="40" alt="PHP logo" />
+  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" height="40" alt="Apache logo" />
+</div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awhux/Awhux/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awhux/Awhux/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Awhux/Awhux/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</picture>
+## 📊 Estatísticas
 
-###
+![Snake animation](https://raw.githubusercontent.com/Awhux/Awhux/output/github-contribution-grid-snake.svg)
 
+---
+
+## 📫 Contato
+
+<div align="left">
+  <a href="mailto:dev.gustavospengler@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" alt="Gmail logo" />
+  </a>
+  <img src="https://img.shields.io/badge/Localização-Santa%20Catarina,%20Brazil-25D366?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
+</div>
+
+---
+
+Se quiser, posso te ajudar a adicionar redes sociais como GitHub, Instagram Dev, ou até um portfólio se tiver. Só mandar!
