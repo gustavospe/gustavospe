@@ -1,13 +1,13 @@
 # 👋 Olá, Devs!
 
-Sou o **Gustavo Spengler**, um entusiasta de tecnologia com 18 anos, apaixonado por criar soluções únicas e revolucionárias.
+Sou o **Gustavo Spengler**, um entusiasta de tecnologia com 19 anos, apaixonado por criar soluções únicas e revolucionárias.
 
 ## 🚀 Sobre Mim
 
 ```javascript
 const gustavospe = {
   nome: "Gustavo Spengler",
-  idade: 18,
+  idade: 19,
   localização: "Santa Catarina, Brazil",
   linguagens: ["TypeScript", "Dart", "PHP"],
   frameworks: ["Vue.js", "React", "Next.js", "Nuxt.js", "Flutter"],
