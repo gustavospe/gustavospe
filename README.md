@@ -1,7 +1,3 @@
-Perfeito! Aqui está seu README atualizado com suas informações de contato integradas na seção final:
-
----
-
 # 👋 Olá, Devs!
 
 Sou o **Gustavo Spengler**, um entusiasta de tecnologia com 18 anos, apaixonado por criar soluções únicas e revolucionárias.
