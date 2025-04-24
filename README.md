@@ -52,8 +52,3 @@ const gustavospe = {
 
 📧 dev.gustavospengler@gmail.com  
 📍 Santa Catarina, Brazil
-
----
-
-Se quiser, posso te ajudar a adicionar redes sociais como GitHub, Instagram Dev, ou até um portfólio se tiver. Só mandar!
-
