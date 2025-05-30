@@ -5,7 +5,7 @@ const gustavospe = {
   nome: "Gustavo Spengler",
   idade: 19,
   localização: "Santa Catarina, Brazil",
-  linguagens: ["TypeScript", "Dart", "PHP"],
+  linguagens: ["TypeScript", "Dart"],
   frameworks: ["Vue.js", "React", "Next.js", "Nuxt.js", "Flutter"],
   bancosDeDados: ["Firebase", "Supabase", "MySQL"],
   foco: "Criar soluções impactantes e inteligentes",
