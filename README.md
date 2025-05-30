@@ -89,7 +89,6 @@ const gustavospe = {
   ![Clean Code](https://img.shields.io/badge/Clean_Code-E44D26?style=for-the-badge&logo=html5&logoColor=white)
   ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=dotnet&logoColor=white)
 </div>
----
 
 ## 📫 Vamos nos Conectar
 
