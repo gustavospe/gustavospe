@@ -1,14 +1,3 @@
-
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:3498db&height=200&section=header&text=Gustavo%20Spengler&fontSize=45&fontAlign=50&fontColor=ffffff&desc=Desenvolvedor%20Web%20e%20Mobile&descAlign=50&descSize=18)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+sou+o+Gustavo+Spengler!;Desenvolvedor+Web+e+Mobile;Entusiasta+de+Tecnologia)
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="170px" />
-
-</div>
-
 ---
 
 ## 👨‍💻 Sobre Mim
@@ -59,23 +48,8 @@ const gustavospe = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavospe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=gustavospe&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavospe&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </div>
-
----
-
-## 🧩 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **Neskseat Panel** | Plataforma inteligente para gestão de projetos, integrações e hospedagem. | Next.js, Flutter, Supabase, Cloudflare API, Athenas API |
-| **UltraGym** | App mobile para academias com controle de treinos, agenda e notificações. | Flutter, Firebase, Notificações Push |
-| **Landing Page Impactante** | Experiência visual cativante para empresas modernas. | Nuxt.js, TailwindCSS, animações JS |
 
 ---
 
@@ -89,11 +63,3 @@ const gustavospe = {
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/Awhux/Awhux/output/github-contribution-grid-snake.svg)
-
-</div>
