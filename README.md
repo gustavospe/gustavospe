@@ -89,8 +89,7 @@ const gustavospe = {
   ![Clean Code](https://img.shields.io/badge/Clean_Code-E44D26?style=for-the-badge&logo=html5&logoColor=white)
   ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=dotnet&logoColor=white)
 </div>
-##
-<img src="https://raw.githubusercontent.com/gustavospe/gustavospe/output/snake.svg" alt="Snake animation" />
+
 ## 📫 Vamos nos Conectar
 
 <p>
